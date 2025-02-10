@@ -9,7 +9,8 @@ This project implements a fast patch integral image computation and a box blur f
 
 ## Usage
 
-The main program demonstrates the use of the integral image and box blur filter on a randomly generated grayscale image. The dimensions of the image and the blur radius can be adjusted in the `main` function.
+The main program demonstrates the u
+se of the integral image and box blur filter on a randomly generated grayscale image. The dimensions of the image and the blur radius can be adjusted in the `main` function.
 
 ## Requirements
 
